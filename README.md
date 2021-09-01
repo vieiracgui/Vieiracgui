@@ -1,10 +1,5 @@
 ## Olá
 - 🌱 Eu atualmente estou aprendendo HTML,CSS E JS.
-- 
-- 
--
--
--
 
  <div>
   <a href="https://github.com/Vieiracgui">
