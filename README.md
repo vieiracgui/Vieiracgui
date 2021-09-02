@@ -1,5 +1,11 @@
-## Olá
-- 🌱 Atualmente estou aprendendo HTML,CSS E JS.
+### **Olá, meu nome é Guilherme** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+<p>
+  <em>
+    - 🌱 Atualmente estou aprendendo HTML,CSS E JS.
+  </em>  
+</p>
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
  <div>
   <a href="https://github.com/Vieiracgui">
@@ -12,8 +18,7 @@
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
- 
- 
+  
  ###
  
 <a href="https://in.linkedin.com/in/">
@@ -28,6 +33,11 @@
   <a href="mailto:guilherme12e92@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+ 
+ <br>
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+ 
+ <br>
   
   ##
  
