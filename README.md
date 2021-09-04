@@ -30,10 +30,8 @@
 <a href="https://twitter.com/vieiracgui">
 <img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif?cid=ecf05e479h6qhxfcr27vfv6arr7wtd5csi9dti0124g526eu&rid=giphy.gif&ct=g" width="50px">
 <a href="https://www.instagram.com/vieiracgui/">
-<img src="https://c.tenor.com/_OtyZNwfShYAAAAC/instagram-logo.gif" width="50px">
-
-    
-  </a>
+<img src="https://c.tenor.com/_OtyZNwfShYAAAAC/instagram-logo.gif" width="50px">     
+</a>
  
    
   ##
