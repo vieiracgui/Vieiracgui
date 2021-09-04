@@ -1,7 +1,5 @@
 ## ⚡Eae, me chamo Guilherme!
 
-<img align="right" alt="Dumbledore" src="https://c.tenor.com/mVGOGpdgVLYAAAAC/dumbledore-albus-percival-wulfric-brian-dumbledore.gif" width="1000" /> 
-
 <p align="center">
 </p>
 </br>
@@ -9,15 +7,15 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact"
+      align="right"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vieiracgui&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=teteusaraujo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=Vieiracgui&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
@@ -29,15 +27,15 @@
 - 💻Estou amando a parte de Front-end.
 
 ## Skills
+
 <div
-     
+  style="display: inline_block"><br>
   <img src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif" width="50px">
   <img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110c309db8de6addc80d5c8f0f79727ffe8c4b071b&rid=giphy.gif&ct=s" width="50px">
   <img src="https://camo.githubusercontent.com/b29b5f998c791ffccb136badb4fbcc08dcbd80359a3560715ac16e5635793237/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966" width="50px">
   <img src="https://camo.githubusercontent.com/37f50d0d00a847f7699f398fb621fecbab0fcf67e1d0e543b8061265ecc81c99/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966" width="50px">
-  
   </div>
-
+  
 ## Contact 
 
 <a href="https://in.linkedin.com/in/">
@@ -49,3 +47,4 @@
 <a href="https://www.instagram.com/vieiracgui/">
 <img src="https://c.tenor.com/_OtyZNwfShYAAAAC/instagram-logo.gif" width="50px">     
 </a>
+<img align="left" alt="Barney" src="https://media.giphy.com/media/1vh1PXneQqN1e/giphy.gif?cid=ecf05e47jupal51b63yqju0i9zj9etl0aszbs3akk71u5ed1&rid=giphy.gif&ct=g" width="200" /> 
