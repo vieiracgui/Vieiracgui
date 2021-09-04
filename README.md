@@ -1,16 +1,16 @@
-### **Olá, meu nome é Guilherme** 
+### **Olá, meu nome é Guilherme**&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
   <p>
   <em>   
   -📖 Atualmente estou aprendendo HTML,CSS E JS.
   </em>  
   </p>
-  <img align="right" alt="PC GIF" src="https://i.pinimg.com/originals/5d/0a/55/5d0a552a7c5b8215e5d08238e253d35b.gif" width="350" /> 
+  <img align="right" alt="PC GIF" src="https://i.pinimg.com/originals/5d/0a/55/5d0a552a7c5b8215e5d08238e253d35b.gif" width="450" /> 
   
  <div>
   <a href="https://github.com/Vieiracgui"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vieiracgui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="111em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiracgui&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieiracgui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiracgui&layout=compact&langs_count=7&theme=react"/>
  </div>
     
   <div
