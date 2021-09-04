@@ -1,43 +1,41 @@
-### **Olá, meu nome é Guilherme** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### **Olá, meu nome é Guilherme** 
 
-<p>
-  <em>
-    - 🌱 Atualmente estou aprendendo HTML,CSS E JS.
+  <p>
+  <em>   
+  -📖 Atualmente estou aprendendo HTML,CSS E JS.
   </em>  
-</p>
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
+  </p>
+  <img align="right" alt="PC GIF" src="https://i.pinimg.com/originals/5d/0a/55/5d0a552a7c5b8215e5d08238e253d35b.gif" width="350" /> 
+  
  <div>
-  <a href="https://github.com/Vieiracgui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieiracgui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiracgui&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/Vieiracgui"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vieiracgui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="111em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiracgui&layout=compact&langs_count=7&theme=react"/>
  </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    
+  <div
+  style="display: inline_block"><br>
+  <img src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif" width="50px">
+  <img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b76110c309db8de6addc80d5c8f0f79727ffe8c4b071b&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://camo.githubusercontent.com/b29b5f998c791ffccb136badb4fbcc08dcbd80359a3560715ac16e5635793237/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966" width="50px">
+  <img src="https://camo.githubusercontent.com/37f50d0d00a847f7699f398fb621fecbab0fcf67e1d0e543b8061265ecc81c99/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966" width="50px">
   </div>
   
- ###
+ ### **Contatos**
  
 <a href="https://in.linkedin.com/in/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/vieiracgui">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/vieiracgui/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:guilherme12e92@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50px">
+<a href="mailto:guilherme12e92@gmail.com">
+<img src="https://cdn.dribbble.com/users/779602/screenshots/4848986/gmailsmall.gif" width="50px">
+<a href="https://twitter.com/vieiracgui">
+<img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif?cid=ecf05e479h6qhxfcr27vfv6arr7wtd5csi9dti0124g526eu&rid=giphy.gif&ct=g" width="50px">
+<a href="https://www.instagram.com/vieiracgui/">
+<img src="https://c.tenor.com/_OtyZNwfShYAAAAC/instagram-logo.gif" width="50px">
+
+    
   </a>
  
- <br>
- <img src="" alt="" width="980">
- <br>
-  
+   
   ##
  
  
