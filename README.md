@@ -1,8 +1,8 @@
-### **Olá, meu nome é Guilherme**&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### ⚡**Olá, meu nome é Guilherme**
 
   <p>
   <em>   
-  -📖 Atualmente estou aprendendo HTML,CSS E JS.
+  📖 Atualmente estou aprendendo HTML,CSS E JS.
   </em>  
   </p>
   <img align="right" alt="PC GIF" src="https://i.pinimg.com/originals/5d/0a/55/5d0a552a7c5b8215e5d08238e253d35b.gif" width="380" /> 
