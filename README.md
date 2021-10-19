@@ -48,4 +48,3 @@
 <a href="https://www.instagram.com/vieiracgui/">
 <img src="https://c.tenor.com/_OtyZNwfShYAAAAC/instagram-logo.gif" width="50px">     
 </a>
-<img align="left" alt="Barney" src="https://media.giphy.com/media/1vh1PXneQqN1e/giphy.gif?cid=ecf05e47jupal51b63yqju0i9zj9etl0aszbs3akk71u5ed1&rid=giphy.gif&ct=g" width="200" /> 
