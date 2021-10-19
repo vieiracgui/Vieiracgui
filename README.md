@@ -24,7 +24,6 @@
 ### Sobre mim
 
 - 📖 Atualmente estou aprendendo HTML, CSS E JS.
-- 💻Estou amando a parte de Front-end.
 
 ## Skills
 
