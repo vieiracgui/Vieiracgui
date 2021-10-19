@@ -1,4 +1,4 @@
-## ⚡Heloo, I`m Guilherme!
+## ⚡Hello, I'm Guilherme!
 
 <p align="center">
 </p>
