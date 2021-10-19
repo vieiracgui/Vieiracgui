@@ -34,6 +34,69 @@
   <img src="https://camo.githubusercontent.com/b29b5f998c791ffccb136badb4fbcc08dcbd80359a3560715ac16e5635793237/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966" width="50px">
   <img src="https://camo.githubusercontent.com/37f50d0d00a847f7699f398fb621fecbab0fcf67e1d0e543b8061265ecc81c99/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966" width="50px">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="50px">  
+  
+   <section class="skills section" id="skills">
+                <h2 class="section-title">Skills</h2>
+
+                <div class="skills__container bd-grid">          
+                    <div>
+                        <h2 class="skills__subtitle">Profesional Skills</h2>
+                        <p class="skills__text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit optio id vero amet, alias architecto consectetur error eum eaque sit.</p>
+                        <div class="skills__data">
+                            <div class="skills__names">
+                                <i class='bx bxl-html5 skills__icon'></i>
+                                <span class="skills__name">HTML5</span>
+                            </div>
+                            <div class="skills__bar skills__html">
+
+                            </div>
+                            <div>
+                                <span class="skills__percentage">95%</span>
+                            </div>
+                        </div>
+                        <div class="skills__data">
+                            <div class="skills__names">
+                                <i class='bx bxl-css3 skills__icon'></i>
+                                <span class="skills__name">CSS3</span>
+                            </div>
+                            <div class="skills__bar skills__css">
+                                
+                            </div>
+                            <div>
+                                <span class="skills__percentage">85%</span>
+                            </div>
+                        </div>
+                        <div class="skills__data">
+                            <div class="skills__names">
+                                <i class='bx bxl-javascript skills__icon' ></i>
+                                <span class="skills__name">JAVASCRIPT</span>
+                            </div>
+                            <div class="skills__bar skills__js">
+                                
+                            </div>
+                            <div>
+                                <span class="skills__percentage">65%</span>
+                            </div>
+                        </div>
+                        <div class="skills__data">
+                            <div class="skills__names">
+                                <i class='bx bxs-paint skills__icon'></i>
+                                <span class="skills__name">UX/UI</span>
+                            </div>
+                            <div class="skills__bar skills__ux">
+                                
+                            </div>
+                            <div>
+                                <span class="skills__percentage">85%</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div>              
+                        <img src="assets/img/work3.jpg" alt="" class="skills__img">
+                    </div>
+                </div>
+            </section>
   </div>
   
   
