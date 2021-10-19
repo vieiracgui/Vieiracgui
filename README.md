@@ -34,9 +34,7 @@
   <img src="https://camo.githubusercontent.com/b29b5f998c791ffccb136badb4fbcc08dcbd80359a3560715ac16e5635793237/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966" width="50px">
   <img src="https://camo.githubusercontent.com/37f50d0d00a847f7699f398fb621fecbab0fcf67e1d0e543b8061265ecc81c99/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966" width="50px">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="50px">  
-  
-    <span class="skills__percentage">20%</span> <span class="skills__percentage">20%</span>
-  
+    
   </div>
   
   
