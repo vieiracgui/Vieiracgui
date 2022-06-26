@@ -26,7 +26,7 @@
 </div>
   
   
-## Contact 
+## Contato 
 
 <a href="https://in.linkedin.com/in/">
 <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="50" width="50px">
