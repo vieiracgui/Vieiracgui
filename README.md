@@ -31,9 +31,4 @@
 <a href="https://in.linkedin.com/in/">
 <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="50" width="50px">
 <a href="mailto:guilherme12e92@gmail.com">
-<img src="https://cdn.dribbble.com/users/779602/screenshots/4848986/gmailsmall.gif" height="50" width="50px">
-<a href="https://twitter.com/vieiracgui">
-<img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif?cid=ecf05e479h6qhxfcr27vfv6arr7wtd5csi9dti0124g526eu&rid=giphy.gif&ct=g" height="50" width="50px">
-<a href="https://www.instagram.com/vieiracgui/">
-<img src="https://c.tenor.com/_OtyZNwfShYAAAAC/instagram-logo.gif" height="50" width="50px">     
-</a>
+<img src="https://i.pinimg.com/originals/96/87/b7/9687b7c9261348fcab7966633d1aef9e.gif" height="50" width="50px">
