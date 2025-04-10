@@ -1,10 +1,6 @@
 <h1 align="left">Hey! I'm Guilherme Vieira</h1>
 
-###
 
-<h2 align="left">About me</h2>
-
-###
 
 <p align="left">☁️ My main focus is to be a Cloud Architect<br><br>📚 I'm currently studying to the AWS certifications exam.</p>
 
