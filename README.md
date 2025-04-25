@@ -2,7 +2,7 @@
 
 
 
-<p align="left">☁️ My main focus is to be a Cloud Architect<br><br>📚 I'm currently studying to the AWS certifications exam.</p>
+<p align="left">☁️ My main focus is to be a Cloud Architect<br><br>📚 I'm currently studying to the AWS certifications exams.</p>
 
 ###
 
