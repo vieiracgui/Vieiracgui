@@ -77,7 +77,7 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
   
 ---
 
-⭐ **Obrigado por visitar!** Sinta-se à vontade para explorar meus repositórios e entrar em contato!  
+**Obrigado por visitar!** Sinta-se à vontade para explorar meus repositórios e entrar em contato!  
 
 ---  
 
