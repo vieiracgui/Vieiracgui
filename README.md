@@ -1,8 +1,8 @@
 # **Portfólio Pessoal**  
 
-👋 **Olá, eu sou [Seu Nome]**  
+👋 **Olá, meu nome é Guilherme Vieira**  
 💻 Desenvolvedor [Front-end/Back-end/Full-Stack] | [Outras áreas de interesse]  
-🌍 [Sua Localização] | ✉️ [Seu E-mail]  
+🌍 São Paulo, Brasil  
 
 Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais, contribuições e trabalhos que demonstram minhas habilidades e experiência.  
 
@@ -11,21 +11,36 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
 ## **🛠 Tecnologias e Habilidades**  
 
 ### **Linguagens e Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  
+</div>
+
 
 ### **Ferramentas e Plataformas**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
----
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+</div>
 
 ## **🚀 Projetos Destacados**  
 
@@ -48,24 +63,21 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
 
 ## **📊 Estatísticas do GitHub**  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula)  
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dracula)  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vieiracgui&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vieiracgui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div> 
 
 ---
 
 ## **📫 Contato**  
 
-💼 **LinkedIn**: [Seu Perfil](#)  
-📧 **E-mail**: [seu-email@exemplo.com](#)  
-🐦 **Twitter**: [@seuuser](#) (opcional)  
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" />](https://www.linkedin.com/in/Vieiracgui/)
+[<img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Gmail"/>](guilherme12e92@gmail.com)
+  
 ---
 
 ⭐ **Obrigado por visitar!** Sinta-se à vontade para explorar meus repositórios e entrar em contato!  
 
 ---  
 
-📄 **Licença**: [MIT](https://opensource.org/licenses/MIT)  
-
-🔹 **Atualizado em**: `2024`  
