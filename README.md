@@ -56,7 +56,7 @@
 ###
 
 <div align="left">
-<a href="www.linkedin.com/in/vieiracgui" target="_blank"> 
+<a href="www.linkedin.com/in/vieiracgui" target="linkedin.com"> 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   
 <a href="https://wwww.Gmail.com/Guilherme12e92@gmail.com" target="_blank">
