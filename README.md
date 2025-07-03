@@ -58,7 +58,7 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
 
 ### **3. [Nome do Projeto]**  
 📌 **Descrição**: Breve descrição do projeto.  
-🔗 **Link**: [Repositório ou Deploy](#)  
+🔗 **Link**: https://github.com/vieiracgui/Tetris-Game.git  
 🛠 **Tecnologias**: JavaScript, HTML, CSS  
 
 ---
