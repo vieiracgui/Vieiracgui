@@ -56,8 +56,8 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
 🔗 **Link**: [Repositório ou Deploy](#)  
 🛠 **Tecnologias**: Python, Flask, PostgreSQL  
 
-### **3. [Nome do Projeto]**  
-📌 **Descrição**: Breve descrição do projeto.  
+### **3. Tetris-game]**  
+📌 **Descrição**: Jogo clássico de Tetris feito com JavaScript, HTML e CSS. Ótimo para treinar lógica de jogos, uso do DOM e matrizes 2D.
 🔗 **Link**: https://github.com/vieiracgui/Tetris-Game.git  
 🛠 **Tecnologias**: JavaScript, HTML, CSS  
 
