@@ -46,8 +46,15 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
 🔗 **Link**: https://github.com/vieiracgui/Desafio-dev.git(#)  
 🛠 **Tecnologias**: Java, Springboot,  
 
-### **3. Jogos classicos**  
-📌 **Descrição**: Praticando JavaScript com jogos classicos.
+### **3. Classic Games Lab: Jogos Clássicos Recriados com Fins Educativos**  
+📌 **Descrição**: Repositório dedicado à recriação de jogos clássicos (como Snake, Pong, Tetris e outros) com objetivos educacionais. Cada projeto inclui:
+
+✔ Implementação passo a passo
+✔ Foco em boas práticas de código
+✔ Versões em diferentes linguagens/engines
+✔ Documentação explicativa
+
+Ideal para aprender programação, padrões de game dev ou apenas reviver a nostalgia dos clássicos! Aceito contribuições e ideias de novos jogos para implementar.
 
 🔗 **Link**: https://github.com/vieiracgui/Jogos-JavaScrip.git  
 🛠 **Tecnologias**: JavaScript, HTML, CSS  
