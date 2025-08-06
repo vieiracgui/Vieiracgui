@@ -42,11 +42,13 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
 
 ### **2. Desafios Tech: Códigos de Processos Seletivos Devs**  
 📌 **Descrição**: Este repositório reúne diversos desafios de programação solicitados por empresas em processos seletivos para desenvolvedores. Aqui você encontrará exercícios de lógica, algoritmos, estruturas de dados e projetos práticos, com soluções em diferentes linguagens. Ideal para quem quer praticar, se preparar para entrevistas ou comparar abordagens. Contribuições são bem-vindas!   
+
 🔗 **Link**: https://github.com/vieiracgui/Desafio-dev.git(#)  
 🛠 **Tecnologias**: Java, Springboot,  
 
 ### **3. Jogos classicos**  
 📌 **Descrição**: Praticando JavaScript com jogos classicos.
+
 🔗 **Link**: https://github.com/vieiracgui/Jogos-JavaScrip.git  
 🛠 **Tecnologias**: JavaScript, HTML, CSS  
 
