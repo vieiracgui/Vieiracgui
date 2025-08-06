@@ -44,7 +44,7 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
 📌 **Descrição**: Este repositório reúne diversos desafios de programação solicitados por empresas em processos seletivos para desenvolvedores. Aqui você encontrará exercícios de lógica, algoritmos, estruturas de dados e projetos práticos, com soluções em diferentes linguagens. Ideal para quem quer praticar, se preparar para entrevistas ou comparar abordagens. Contribuições são bem-vindas!   
 
 🔗 **Link**: https://github.com/vieiracgui/Desafio-dev.git(#)  
-🛠 **Tecnologias**: Java, Springboot,  
+🛠 **Tecnologias**: Java e Springboot.  
 
 ### **3. Classic Games Lab: Jogos Clássicos Recriados com Fins Educativos**  
 📌 **Descrição**: Repositório dedicado à recriação de jogos clássicos (como Snake, Pong, Tetris e outros) com objetivos educacionais. Cada projeto inclui:
@@ -57,7 +57,7 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
 Ideal para aprender programação, padrões de game dev ou apenas reviver a nostalgia dos clássicos! Aceito contribuições e ideias de novos jogos para implementar.
 
 🔗 **Link**: https://github.com/vieiracgui/Jogos-JavaScrip.git  
-🛠 **Tecnologias**: JavaScript, HTML, CSS  
+🛠 **Tecnologias**: HTML, CSS e JavaScript.
 
 ---
 
