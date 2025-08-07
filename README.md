@@ -3,7 +3,7 @@
 
 💻 Desenvolvedor [Front-end/Back-end/Full-Stack] | [Outras áreas de interesse]  
 🌍 São Paulo, Brasil  
-
+Web portfólio: https://vieiracgui.netlify.app/
 Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais, contribuições e trabalhos que demonstram minhas habilidades e experiência.  
 
 ---
