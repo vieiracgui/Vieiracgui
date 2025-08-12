@@ -2,6 +2,7 @@
 
 
 💻 Desenvolvedor Jr
+
 🌍 São Paulo, Brasil  
 
 Bem-vindo ao meu GitHub! Aqui você encontrará projetos pessoais, contribuições e trabalhos que demonstram minhas habilidades e experiência.  
