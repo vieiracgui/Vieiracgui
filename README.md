@@ -1,9 +1,8 @@
 <h1>👋 Olá, meu nome é Guilherme Vieira</h1>  
 
 
-💻 Desenvolvedor [Front-end/Back-end/Full-Stack] | [Outras áreas de interesse]  
+💻 Desenvolvedor Jr
 🌍 São Paulo, Brasil  
-Web portfólio: https://vieiracgui.netlify.app/
 
 Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais, contribuições e trabalhos que demonstram minhas habilidades e experiência.  
 
@@ -42,10 +41,11 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos pessoais,
 
 ## **🚀 Projetos Destacados**  
 
-### **1. [Nome do Projeto]**  
-📌 **Descrição**: Breve descrição do projeto.  
-🔗 **Link**: [Repositório ou Deploy](#)  
-🛠 **Tecnologias**: React, Node.js, MongoDB  
+### **1. Portfólio Web**  
+📌 **Descrição**: Portfólio pessoal desenvolvido para apresentar minhas habilidades, projetos e certificações, com design responsivo e integração de funcionalidades modernas.
+
+🔗 **Link**: https://vieiracgui.netlify.app/  
+🛠 **Tecnologias**:  HTML, CSS, JavaScript e Netlify para Deploy.
 
 ### **2. Desafios Tech: Códigos de Processos Seletivos Devs**  
 📌 **Descrição**: Este repositório reúne diversos desafios de programação solicitados por empresas em processos seletivos para desenvolvedores. Aqui você encontrará exercícios de lógica, algoritmos, estruturas de dados e projetos práticos, com soluções em diferentes linguagens. Ideal para quem quer praticar, se preparar para entrevistas ou comparar abordagens. Contribuições são bem-vindas!   
