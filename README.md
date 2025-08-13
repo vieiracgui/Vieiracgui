@@ -45,8 +45,9 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos pessoais, contribuiçõ
 ### **1. Portfólio Web**  
 📌 **Descrição**: Portfólio pessoal desenvolvido para apresentar minhas habilidades, projetos e certificações, com design responsivo e integração de funcionalidades modernas.
 
-🔗 **Link**: https://vieiracgui.netlify.app/  
-🛠 **Tecnologias**:  HTML, CSS, JavaScript e Netlify para Deploy.
+🔗 **Link**: https://bit.ly/Vieiracgui 
+
+🛠 **Tecnologias**:  HTML, CSS, JavaScript, Node.js, Express, Amazon S3, Amazon CloudFront, Terraform e Bit.ly.
 
 ### **2. Desafios Tech: Códigos de Processos Seletivos Devs**  
 📌 **Descrição**: Este repositório reúne diversos desafios de programação solicitados por empresas em processos seletivos para desenvolvedores. Aqui você encontrará exercícios de lógica, algoritmos, estruturas de dados e projetos práticos, com soluções em diferentes linguagens. Ideal para quem quer praticar, se preparar para entrevistas ou comparar abordagens. Contribuições são bem-vindas!   
