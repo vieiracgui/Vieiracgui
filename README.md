@@ -47,7 +47,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos pessoais, contribuiçõ
 
 🔗 **Link**: https://bit.ly/Vieiracgui 
 
-🛠 **Tecnologias**:  HTML, CSS, JavaScript, Node.js, Express, Amazon S3, Amazon CloudFront, Terraform e Bit.ly.
+🛠 **Tecnologias**:  HTML, CSS, JavaScript, Amazon S3, Amazon CloudFront, e Bit.ly.
 
 ### **2. Desafios Tech: Códigos de Processos Seletivos Devs**  
 📌 **Descrição**: Este repositório reúne diversos desafios de programação solicitados por empresas em processos seletivos para desenvolvedores. Aqui você encontrará exercícios de lógica, algoritmos, estruturas de dados e projetos práticos, com soluções em diferentes linguagens. Ideal para quem quer praticar, se preparar para entrevistas ou comparar abordagens. Contribuições são bem-vindas!   
