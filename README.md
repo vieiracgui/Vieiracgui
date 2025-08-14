@@ -45,7 +45,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos pessoais, contribuiçõ
 ### **1. Portfólio Web**  
 📌 **Descrição**: Portfólio pessoal desenvolvido para apresentar minhas habilidades, projetos e certificações, com design responsivo e integração de funcionalidades modernas.
 
-🔗 **Link**: https://bit.ly/Vieiracgui 
+🔗 **Link**: http://vieiracgui-portfolio.s3-website.us-east-2.amazonaws.com
 
 🛠 **Tecnologias**:  HTML, CSS, JavaScript, Amazon S3, Amazon CloudFront, e Bit.ly.
 
