@@ -49,24 +49,19 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos pessoais, contribuiçõ
 
 🛠 **Tecnologias**:  HTML, CSS, JavaScript, Amazon S3, Amazon CloudFront, e Bit.ly.
 
-### **2. Desafios Tech: Códigos de Processos Seletivos Devs**  
+### **2. Login-Backend**  
+📌 **Descrição**: Um sistema de autenticação seguro utilizando Spring Boot e JWT (JSON Web Token) para gerenciamento de sessões.
+
+🔗 **Link**: https://github.com/vieiracgui/Login-Backend.git
+
+🛠 **Tecnologias**: Spring Boot, Spring Security, JWT (Autenticação stateless), Spring Data JPA, H2 Database / MySQL (Banco de dados em memória ou produção).
+
+### **3. Desafios Tech: Códigos de Processos Seletivos Devs**  
 📌 **Descrição**: Este repositório reúne diversos desafios de programação solicitados por empresas em processos seletivos para desenvolvedores. Aqui você encontrará exercícios de lógica, algoritmos, estruturas de dados e projetos práticos, com soluções em diferentes linguagens. Ideal para quem quer praticar, se preparar para entrevistas ou comparar abordagens. Contribuições são bem-vindas!   
 
 🔗 **Link**: https://github.com/vieiracgui/Desafio-dev.git  
 🛠 **Tecnologias**: Java e Springboot.  
 
-### **3. Classic Games Lab: Jogos Clássicos Recriados com Fins Educativos**  
-📌 **Descrição**: Repositório dedicado à recriação de jogos clássicos (como Snake, Pong, Tetris e outros) com objetivos educacionais. Cada projeto inclui:
-
-✔ Implementação passo a passo
-✔ Foco em boas práticas de código
-✔ Versões em diferentes linguagens/engines
-✔ Documentação explicativa
-
-Ideal para aprender programação, padrões de game dev ou apenas reviver a nostalgia dos clássicos! Aceito contribuições e ideias de novos jogos para implementar.
-
-🔗 **Link**: https://github.com/vieiracgui/Jogos-JavaScrip.git  
-🛠 **Tecnologias**: HTML, CSS e JavaScript.
 
 ---
 
